@@ -2,6 +2,6 @@
 labs-solutions
 
 # Ignore workspace VS Code files
-.code-workspace
+*.code-workspace
 
 .ipynb_checkpoints
