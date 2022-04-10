@@ -1,0 +1,2 @@
+,dateSold,propertyType,lotAreaValue,address,daysOnZillow,price,listingDateTime,longitude,latitude,contingentListingType,listingStatus,zpid,imgSrc,livingArea,bathrooms,lotAreaUnit,country,currency,bedrooms,hasImage,listingSubType.is_FSBA
+0,,SINGLE_FAMILY,5227.2,"10518 Robinson Ave, Raleigh, NC 27603",-1,179990,,-78.67716,35.625443,,FOR_SALE,6410320,https://photos.zillowstatic.com/fp/a4729a74f3ad3487152d13d9ef23a2cc-p_e.jpg,840,1,sqft,USA,USD,2,True,True
