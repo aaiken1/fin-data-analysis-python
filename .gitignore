@@ -3,7 +3,7 @@
 
 # Ignore particular lab solutions
 #labs-solutions/lab01-solution.ipynb
-labs-solutions/lab02-solution.ipynb
+#labs-solutions/lab02-solution.ipynb
 labs-solutions/lab03-solution.ipynb
 labs-solutions/lab04-solution.ipynb
 labs-solutions/lab05-solution.ipynb
