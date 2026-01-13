@@ -1,0 +1,26 @@
+# Core data analysis
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Statistics and optimization
+scipy
+statsmodels
+
+# Machine learning
+scikit-learn
+
+# Portfolio optimization
+pyportfolioopt
+
+# Finance data
+yfinance
+fredapi
+openassetpricing
+
+# Jupyter support (usually pre-installed, but ensures compatibility)
+jupyter
+ipykernel
